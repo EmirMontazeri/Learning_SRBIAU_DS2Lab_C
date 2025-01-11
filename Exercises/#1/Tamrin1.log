@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F84A -DL -O11111114 -fo4 -N"D:\User Files\Documents\University\Sem 7\Tamrin 1\Tamrin1.mcppi" -SP"C:\Program Files\mikroC PRO for PIC\Defs\" -SP"C:\Program Files\mikroC PRO for PIC\Uses\P16\" -SP"D:\User Files\Documents\University\Sem 7\Tamrin 1\" -IP"C:\Program Files\mikroC PRO for PIC\Uses\P16\" -IP"D:\User Files\Documents\University\Sem 7\Tamrin 1\" "Tamrin1.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 52 [bytes], Available ROM: 1024 [bytes]	 
+diagnostics: 0	122	Compilation Started	Tamrin1.c
+diagnostics: 14	123	Compiled Successfully	Tamrin1.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 4 (8%)  Free RAM (bytes): 48 (92%)	Used RAM (bytes): 4 (8%)  Free RAM (bytes): 48 (92%)
+hint: 0	1144	Used ROM (program words): 95 (9%)  Free ROM (program words): 929 (91%)	Used ROM (program words): 95 (9%)  Free ROM (program words): 929 (91%)
+diagnostics: 0	125	Project Linked Successfully	Tamrin1.mcppi
+diagnostics: 0	128	Linked in 47 ms	 
+diagnostics: 0	129	Project 'Tamrin1.mcppi' completed: 110 ms	 
+diagnostics: 0	103	Finished successfully: 06 Nov 2023, 22:39:20	Tamrin1.mcppi
