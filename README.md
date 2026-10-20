@@ -21,6 +21,6 @@ Temperature and Humidity capabilities.
 |--------------------------------------------------------|-----------------------------------------------------------------------------|
 | PDF file                                               | Final Report (in Persian)                                                   |
 | DHT11.mpkg                                             | DHT11 library package (Requires a package manager for install)              |
-| 1551644613... ZIP file                                 | DHT11 full code library to be used instead on package (No install required) |
+| 1551644613... ZIP file                                 | DHT11 full code library to be used instead of package (No install required) |
 | MicroC Files (7.2)                                     | Micro Controller code (".c" file)                                           |
 | Proteus Files (8.13)                                   | Proteus Simulation file                                                     |
